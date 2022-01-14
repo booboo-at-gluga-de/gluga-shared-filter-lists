@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version:
-! Title:
+! Title: gluga-shared-filter-lists
 ! Last modified:
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/booboo-at-gluga-de/gluga-shared-filter-lists
