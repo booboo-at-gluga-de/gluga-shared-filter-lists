@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/booboo-at-gluga-de/gluga-shared-filter-lists
+!
+# Remove the heise.de Cookie Popup and make scrollbars work, too
+||cmp.heise.de/*
