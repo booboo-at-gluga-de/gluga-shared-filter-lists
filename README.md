@@ -30,7 +30,7 @@ Dann schickst Du uns einen [Pull-Request](https://git-scm.com/book/de/v2/GitHub-
 
 **Bitte beachte:** Mit Deinem Pull-Request sicherst Du zu:
   * dass Du mit den Inhalten, die Du beisteuerst keine Rechte Anderer verletzt (keine Urheberrechtsverletzungen, keine Beleidigungen oder Diskriminierungen, ...)
-  * dass die Inhalte, die Du beisteuerst auf GitHub veröffentlicht werden sollen und unter der [Creative Commons Lizenz, cc-by-sa-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+  * dass die Inhalte, die Du beisteuerst auf GitHub veröffentlicht werden sollen unter der [Creative Commons Lizenz cc-by-sa-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 # [EN] Shared Filter List for uBlock Origin
 
