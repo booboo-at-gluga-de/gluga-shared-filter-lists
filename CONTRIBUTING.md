@@ -1,6 +1,8 @@
 *** For English see below ***
 
-# [DE] Eigene Filter beisteuern (contribute)
+# [DE] Eigene Inhalte beisteuern (contribute)
+
+(Insbesondere geht es dabei natürlich um Anpassungen / Erweiterungen der Filterliste, aber grundsätzlich auch um alle anderen Inhalte hier in diesem Repository)
 
 Teste Deine Filterregel(n) bitte zuerst ausgiebig bei Dir lokal, indem Du sie in *uBlock Origin* unter *Meine Filter* einträgst.
 
@@ -14,6 +16,6 @@ Dann schickst Du uns einen [Pull-Request](https://git-scm.com/book/de/v2/GitHub-
   * dass Du mit den Inhalten, die Du beisteuerst keine Rechte Anderer verletzt (keine Urheberrechtsverletzungen, keine Beleidigungen oder Diskriminierungen, ...)
   * dass die Inhalte, die Du beisteuerst auf GitHub veröffentlicht werden sollen unter der [Creative Commons Lizenz cc-by-sa-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
-# [EN] Shared Filter List for uBlock Origin
+# [EN] Contribute own Content
 
 tbd
