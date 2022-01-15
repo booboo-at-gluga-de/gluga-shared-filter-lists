@@ -24,8 +24,22 @@ siehe [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 # [EN] Shared Filter List for uBlock Origin
 
-tbd
+Together with people from different Linux usergroups who are using the browser plugin [*uBlock Origin*](https://en.wikipedia.org/wiki/UBlock_Origin), we came across: Many of us are adding custom filter rules - which often are also useful for the others.
+
+To make sharing easier we started this project. We want to create and maintain one (or maybe more) filter list(s) here.
+
+As the list is created in [*Adblock Plus 2.0* format](https://help.getadblock.com/support/solutions/articles/6000165012-how-to-create-your-own-personal-filter-list), of course it also can be used within other compatible tools or browser plugins.
 
 ## Use the Filter List
 
+  * Install [*uBlock Origin*](https://de.wikipedia.org/wiki/UBlock_Origin) in your browser.
+  * Click on the icon with the 3 gearwheels there.
+  * In the tab *Filter lists* click on *Import...* and enter this URL:
+```
+https://raw.githubusercontent.com/booboo-at-gluga-de/gluga-shared-filter-lists/main/abp.txt
+```
+  * Click *Apply changes*
+
 ## Contribute own Filters
+
+see [CONTRIBUTING.md](./CONTRIBUTING.md)
