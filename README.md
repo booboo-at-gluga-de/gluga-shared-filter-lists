@@ -32,7 +32,7 @@ As the list is created in [*Adblock Plus 2.0* format](https://help.getadblock.co
 
 ## Use the Filter List
 
-  * Install [*uBlock Origin*](https://de.wikipedia.org/wiki/UBlock_Origin) in your browser.
+  * Install [*uBlock Origin*](https://en.wikipedia.org/wiki/UBlock_Origin) in your browser.
   * Click on the icon with the 3 gearwheels there.
   * In the tab *Filter lists* click on *Import...* and enter this URL:
 ```
