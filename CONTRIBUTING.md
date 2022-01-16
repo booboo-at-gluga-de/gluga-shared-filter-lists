@@ -6,9 +6,9 @@
 
 Teste Deine Filterregel(n) bitte zuerst ausgiebig bei Dir lokal, indem Du sie in *uBlock Origin* unter *Meine Filter* einträgst:
   * Die zu filternden Inhalte sollten nicht mehr erscheinen (klar).
-  * Denke bitte auch daran, auf mögliches "Overblocking" zu testen. Stelle bitte auch sicher, dass nicht irgendwo anders versehentlich zu viel gefiltert wird!
+  * Denke bitte auch daran, auf mögliches "Overblocking" zu testen. Stelle bitte sicher, dass nicht irgendwo anders versehentlich zu viel gefiltert wird!
 
-Wenn alles funktioniert wie gewünscht, dann kopierst Du die Regel(n) rüber in die Datei *abp.txt* hier in diesem Repository.
+Wenn alles funktioniert wie gewünscht, dann kopierst Du die Regel(n) rüber in die Datei **abp.txt** hier in diesem Repository.
 
 Bitte schreibe über jede Regel einen Kommentar, der angibt wofür die Regel gedacht ist, d. h. was sie tun soll (möglichst in Englisch).
 
@@ -26,12 +26,12 @@ Please first of all make sure to properly test your filter rule(s) locally, by a
   * The content to be filtered should not displayed any more (that's clear).
   * Please also test for possible "over-blocking". I. e. please make sure not to block (by incident) additional content in other locations!
 
-If everything works pretty well, you copy the rule(s) over to *abp.txt* within this repository.
+If everything works pretty well, you copy the rule(s) over to **abp.txt** within this repository.
 
 Please add a comment above each rule, telling what it is supposed to do (comment should be written in English).
 
 Send us a [pull request](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
 
-**Please note:** By sending a pull request you:
+**Please note:** By sending a pull request:
   * you assure the content you are contributing does not violate rights of others (no copyright violations, no offence, no discrimination or harassment, etc.)
   * you agree the content you are contributing shall be published (on GitHub or some other platform) under the terms of the [Creative Commons License cc-by-sa-4.0](https://creativecommons.org/licenses/by-sa/4.0/) - see also [LICENSE.md](./LICENSE.md)
