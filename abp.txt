@@ -7,3 +7,21 @@
 !
 # Remove the heise.de Cookie Popup and make scrollbars work, too
 ||cmp.heise.de/*
+
+! 13.1.2022 https://www.spiegel.de
+||sp-spiegel-de.spiegel.de/*
+
+
+# Registrierungs Banner
+! 2022-01-16 https://www.twitch.tv
+www.twitch.tv##.kywnFe.Layout-sc-nxg1ff-0 > .jDqVhz.Layout-sc-nxg1ff-0
+
+# Cookie Meldungen
+! 2022-01-16 https://www.mydealz.de
+www.mydealz.de##.zIndex--modal.popover--visible.popover--oreo-message.popover
+
+! 2022-01-16 https://www.deutschepost.de
+www.deutschepost.de##.ot-sdk-not-webkit.ot-accordions-pc.ot-fade-in.ot-hide.otPcPopup.ot-sdk-container
+
+! 2022-01-16 https://www.twitch.tv
+www.twitch.tv##.consent-banner.jaMhKm.Layout-sc-nxg1ff-0
