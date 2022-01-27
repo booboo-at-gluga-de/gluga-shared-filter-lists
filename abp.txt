@@ -7,3 +7,7 @@
 !
 # Remove the heise.de Cookie Popup and make scrollbars work, too
 ||cmp.heise.de/*
+
+# Filter Cookie banner at https://www.bild.de
+||cmp2.bild.de/*
+
